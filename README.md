@@ -7,4 +7,4 @@ Duck Umbrella is the go-to destination for those who enjoy wit, creativity, and 
 
 ---
 
-![design_duckumbrella]()
+![design_duckumbrella](https://github.com/user-attachments/assets/a055a99b-4f09-4788-a884-98914f2997c6)
