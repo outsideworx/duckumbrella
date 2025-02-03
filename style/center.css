@@ -4,6 +4,10 @@
     margin-right: auto
 }
 
+.mobile {
+    width: 913px;
+}
+
 body {
     user-select: none;
     -webkit-touch-callout: none;
