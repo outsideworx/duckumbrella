@@ -2,11 +2,92 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Duck Umbrella</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style/center.css">
+    <title>Social Media Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        .container {
+            width: 600px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 25px;
+        }
+
+        .header img {
+            width: 40px;
+            height: 40px;
+        }
+
+        .bio {
+            margin: 15px 0;
+            font-size: 16px;
+            color: #333;
+        }
+
+        .bio a {
+            color: #bc1a76;
+            text-decoration: none;
+        }
+
+        .social-links a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 25px;
+            margin: 50px 0;
+            text-decoration: none;
+            color: black;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .social-links img {
+            width: 50px;
+        }
+    </style>
 </head>
-<body class="color">
-<img src="img/home.webp" class="center mobile" alt="">
+<body class="tile">
+<div class="container">
+    <div class="header">
+        <img src="img/duckumbrella.png" alt="Logo">
+        <h2>Follow Us</h2>
+    </div>
+    <p class="bio">
+        Here is the place containing all social links to DuckUmbrella.<br/>
+        Stay connected with us across all the different platforms.<br/>
+        For inquiries, you can mail us at <a href="mailto:info@duckumbrella.net" target="_blank">info@duckumbrella.net</a>
+    </p>
+    <div class="social-links">
+        <a href="https://www.instagram.com/duckumbre11a" target="_blank">
+            <img src="img/logo/instagram.png" alt="Instagram">
+        </a>
+        <a href="https://www.tiktok.com/@duck.umbrella" target="_blank">
+            <img src="img/logo/tik-tok.png" alt="TikTok">
+        </a>
+        <a href="https://truthsocial.com/@duckumbrella" target="_blank">
+            <img src="img/logo/truth.png" alt="Truth">
+        </a>
+        <a href="https://x.com/duckumbre11a" target="_blank">
+            <img src="img/logo/x.png" alt="X">
+        </a>
+    </div>
+</div>
 <script src="script/center.js"></script>
 </body>
 </html>
