@@ -3,7 +3,7 @@ With bold, thought-provoking content, the platform offers a hub for creatives an
 Each animation is designed to entertain, spark discussion, and provide a fresh perspective on global events. 
 The site makes it easy to follow creators, discover trending animations, and share your favorites across platforms. 
 Duck Umbrella is the go-to destination for those who enjoy wit, creativity, and a touch of irreverence in their social media experience.
-[duckumbrella.net](https://services.outsideworx.net:9002)
+[duckumbrella.net](https://sites.outsideworx.net:9002)
 
 ---
 
